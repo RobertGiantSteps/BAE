@@ -4,5 +4,5 @@
 
 ### [solución]
 
-<img src="IMAGENES/Diagrama_VentaAutos.png">
+<img src="IMAGENES_DIAGRAM/Diagrama_VentaAutos.png">
 <hr>
